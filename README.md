@@ -14,7 +14,7 @@ This tutorial outlines the process of viewing and interpreting Sign-In Logs of u
 
 <h2>Operating Systems Used</h2>
 
-- Windows 11
+- macOS Sequoia
 
 <h2>Sign-In Logs</h2>
 
